@@ -1,5 +1,6 @@
-#Website Link
-mydailynewsreact.netlify.app
+# Website Link
+
+https://mydailynewsreact.netlify.app/
 
 # News App
 
