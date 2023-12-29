@@ -6,15 +6,20 @@ https://5minnews.netlify.app/
 
 This News App is powered by the GNews public API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories, allowing users to easily browse and read articles of their interest. 
 
-## Features
+Name- Vedant Khemraj KondeGithub link for the deployed React News app (Assignment) - https://github.com/Vedantk910/react_news_app
+ASSIGNMENT DETAILS: “News App with
+Firebase Integration”
 
-- **Category-based News**: The app categorizes news articles into various categories, including entertainment, business, sports, technology, health, science, and more. Users can click on a category to view articles specific to that category.
+All the features that were mentioned in the assignment are included in the websiteWebsite Linkhttps://5minnews.netlify.app/News AppThis News App is powered by the GNews public API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories, allowing users to easily browse and read articles of their interest.FeaturesCategory-based News: The app categorizes news articles into various categories, including entertainment, business, sports, technology, health, science, and more. Users can click on a category to view articles specific to that category.Search News: The app includes a search bar that enables users to search for specific news articles. Users can enter keywords related to the news they are interested in, and the app will display relevant articles based on the search query.Article Details: Each article is displayed with a title, description, publication date, channel, and a link to visit the source website. This ensures that users can get a comprehensive understanding of the news article before deciding to read more.Responsive Design: The app is designed to be responsive, providing a seamless experience across different screen sizes and devices. Whether users access the app from their desktop, tablet, or smartphone, the interface will adapt smoothly to fit their device. Favorite Articles: Allow users to mark articles as favorites, and store theirpreferences in Fire base for persistence. This can be done by tapping on a
+heart icon on the top- right of the list items or the details view page
 
-- **Search News**: The app includes a search bar that enables users to search for specific news articles. Users can enter keywords related to the news they are interested in, and the app will display relevant articles based on the search query.
+ State management: Use some state management tools
 
-- **Article Details**: Each article is displayed with a title, description, publication date, channel, and a link to visit the source website. This ensures that users can get a comprehensive understanding of the news article before deciding to read more.
+Offline Support: Implement caching mechanisms to allow user store ad
+previously fetched news article seven when they are offline.
 
-- **Responsive Design**: The app is designed to be responsive, providing a seamless experience across different screen sizes and devices. Whether users access the app from their desktop, tablet, or smartphone, the interface will adapt smoothly to fit their device.
+ Design and UI/UX: Pay attention to app design and create a user-friendly
+interface.
 
 ## Technologies Used
 
