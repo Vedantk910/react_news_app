@@ -1,6 +1,6 @@
 # Website Link
 
-https://mydailynewsreact.netlify.app/
+https://5minnews.netlify.app/
 
 # News App
 
