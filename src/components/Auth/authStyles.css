@@ -1,0 +1,57 @@
+/* src/components/Auth/authStyles.css */
+
+
+/* src/components/Auth/authStyles.css */
+
+
+.form-container {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+
+input {
+  color: white;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  background-color: rgb(82, 56, 52);
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+  text-align: center;
+}
+
+h2{
+  color: rgb(228, 201, 201);
+  
+}
+
+.logout{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.logout button{
+  width: 10rem;
+}
